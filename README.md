@@ -25,4 +25,4 @@ To run the code, type `python3 multiple_digit_recognition_capture.py`
 
 Then press "C" for capture image
 
-<img src="https://github.com/sazi06/handwritten_digit_recognition_with_CNN/multiple_digit_recognition_capture.gif">
+<img src="[https://github.com/sazi06/handwritten_digit_recognition_with_CNN/multiple_digit_recognition_capture.gif](https://github.com/sazi06/handwritten_digit_recognition_with_CNN/blob/cd070ee2c0027b5898e56e7e8bdffe2e018b86cc/multiple_digit_recognition_capture.gif)">
