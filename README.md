@@ -16,7 +16,7 @@ Simple demo for handwritten digit recognition using OpenCV, Keras, CNN
 
 To run the code, type `python3 single_digit_recognition.py`
 
-<img src="https://github.com/hmultiple_digit_recognition_capture.gif">
+<img src="https://github.com/sasi06/handwritten_digit_recognition_wit_CNN/single_digit_recognition.gif">
 
 
 ### Execution for showing multiple digit detection through webcam
